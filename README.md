@@ -57,33 +57,37 @@ real-world deployment thinking.
 
 ## Selected Projects
 
-### CrimeLink Analyzer
+### <a href="https://github.com/JinethBosilu/CrimeLinkAnalyzer_ML">CrimeLink Analyzer</a>
 
 Full-stack investigation platform with call-network analysis, risk
 scoring, and geospatial intelligence.
-🔗 https://github.com/JinethBosilu/CrimeLinkAnalyzer_ML
 
-
-### SBOM Vulnerability Scanner
+### <a href="https://github.com/nimtaraa/SBOM-Vulnerability-Scanner">SBOM Vulnerability Scanner</a>
 
 Rust-based microservice architecture generating CycloneDX SBOMs and
 detecting container vulnerabilities.
-🔗 https://github.com/nimtaraa/SBOM-Vulnerability-Scanner
 
-
-### RISTCON CMS
+### <a href="https://github.com/JinethBosilu/ristcon-backend">RISTCON CMS</a>
 
 Conference website and secure admin panel built with structured backend
 architecture.
-🔗 https://github.com/JinethBosilu/ristcon-backend
 
 ------------------------------------------------------------------------
 
 ## Connect
 
-- 🌐 Portfolio → www.jinethbosilu.online
-- 🧠 TryHackMe → www.tryhackme.com/p/jinethbosilu
-- 💼 LinkedIn → www.linkedin.com/in/jineth-bosilu
+<p align="center">
+  <a href="https://jinethbosilu.online">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=00ff99" />
+  </a>
+  <a href="https://tryhackme.com/p/jinethbosilu">
+    <img src="https://img.shields.io/badge/TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=00ff99" />
+  </a>
+  <a href="https://lk.linkedin.com/in/jineth-bosilu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00ff99" />
+  </a>
+</p>
+
 
 ------------------------------------------------------------------------
 
