@@ -84,3 +84,9 @@ architecture.
 - 🌐 Portfolio → www.jinethbosilu.online
 - 🧠 TryHackMe → www.tryhackme.com/p/jinethbosilu
 - 💼 LinkedIn → www.linkedin.com/in/jineth-bosilu
+
+------------------------------------------------------------------------
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JinethBosilu/JinethBosilu/output/github-contribution-grid-snake-dark.svg" />
+</p>
