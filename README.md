@@ -26,7 +26,7 @@ real-world deployment thinking.
 
 ------------------------------------------------------------------------
 
-## 🛠 Core Technologies
+## Core Technologies
 
 ### Frontend
 
@@ -76,7 +76,7 @@ architecture.
 ## Connect
 
 Portfolio → https://jinethbosilu.online/\
-TryHackMe → https://tryhackme.com/jinethbosilu\
+TryHackMe → https://tryhackme.com/p/jinethbosilu\
 LinkedIn → https://lk.linkedin.com/in/jineth-bosilu
 
 ------------------------------------------------------------------------
