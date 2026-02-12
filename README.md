@@ -54,7 +54,7 @@ real-world deployment thinking.
 
 ------------------------------------------------------------------------
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### CrimeLink Analyzer
 
@@ -73,7 +73,7 @@ architecture.
 
 ------------------------------------------------------------------------
 
-## 📡 Connect
+## Connect
 
 Portfolio → https://jinethbosilu.online/\
 TryHackMe → https://tryhackme.com/jinethbosilu\
